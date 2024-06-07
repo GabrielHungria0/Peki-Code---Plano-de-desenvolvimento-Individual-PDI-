@@ -39,9 +39,9 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
 
-- [ ] Primeiros passos
-- [ ] Aprendendo a Aprender
-- [ ] Iniciando HTML e CSS
+- [x] Primeiros passos
+- [x] Aprendendo a Aprender
+- [x] Iniciando HTML e CSS
 - [ ] Avançando HTML e CSS
 - [ ] JavaScript
 - [ ] Git e GitHub
